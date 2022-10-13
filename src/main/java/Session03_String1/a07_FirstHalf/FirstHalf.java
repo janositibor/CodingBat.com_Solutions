@@ -1,0 +1,7 @@
+package Session03_String1.a07_FirstHalf;
+
+public class FirstHalf {
+    public String firstHalf(String str) {
+        return str.substring(0, str.length()/2);
+    }
+}
