@@ -7,5 +7,6 @@ public class Main {
         System.out.println(wordEnds.wordEnds("abcXY123XYijk", "XY"));
         System.out.println(wordEnds.wordEnds("XY123XY", "XY"));
         System.out.println(wordEnds.wordEnds("XY1XY", "XY"));
+        System.out.println(wordEnds.wordEnds("xxx", "x"));
     }
 }
