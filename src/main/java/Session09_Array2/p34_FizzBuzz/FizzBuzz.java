@@ -1,4 +1,4 @@
-package Session09_Array2.FizzBuzz;
+package Session09_Array2.p34_FizzBuzz;
 
 public class FizzBuzz {
     public String[] fizzBuzz(int start, int end) {

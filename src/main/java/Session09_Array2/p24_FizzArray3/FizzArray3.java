@@ -1,4 +1,4 @@
-package Session09_Array2.FizzArray3;
+package Session09_Array2.p24_FizzArray3;
 
 public class FizzArray3 {
     public int[] fizzArray3(int start, int end) {

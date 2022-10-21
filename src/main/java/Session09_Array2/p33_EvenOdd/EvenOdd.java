@@ -1,4 +1,4 @@
-package Session09_Array2.EvenOdd;
+package Session09_Array2.p33_EvenOdd;
 
 public class EvenOdd {
     public int[] evenOdd(int[] nums) {
