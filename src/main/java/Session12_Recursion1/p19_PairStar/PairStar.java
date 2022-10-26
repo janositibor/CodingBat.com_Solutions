@@ -9,6 +9,7 @@ public class PairStar {
         if(str.charAt(0)==str.charAt(1)){
             separator="*";
         }
-        return String.valueOf(str.charAt(0))+separator+pairStar(str.substring(1));
+        return String.valueOf(str.charAt(0))+"*"+pairStar(str.substring(1));
+
     }
 }
